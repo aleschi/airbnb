@@ -14,14 +14,14 @@ fr:
             room_type:
             home_type: 
            
-  attributes:
-    room:
-      price: "Le prix"
-      adress: "L'adresse"
-      summary: "La description"
-      listing_name: "Le nom de l'annonce"
-      bath_room: "Le nombre de salles de bain"
-      bed_room: "Le nombre de chambres"
-      accomodate: "Le nombre de voyageurs"
-      room_type: "Le type de logement"
-      home_type: "Le genre d'habitation"
+    attributes:
+      room:
+        price: "Le prix"
+        adress: "L'adresse"
+        summary: "La description"
+        listing_name: "Le nom de l'annonce"
+        bath_room: "Le nombre de salles de bain"
+        bed_room: "Le nombre de chambres"
+        accomodate: "Le nombre de voyageurs"
+        room_type: "Le type de logement"
+        home_type: "Le genre d'habitation"
